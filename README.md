@@ -1,4 +1,4 @@
-# Dialog Summarization with Generative AI using LLM
+# Dialog Summarization with Generative AI using LLM (Large Language Models)
 * Lange Language model used here is FLAN-T2 on Huggingface
 * First notebook, performed prompt engineering is performed towards the task needed to achive by mentioning respective prompt in plain english. Compared zero shot, one shot, and few shot inferences. This give an idea about on how there is scope to enhance the generative output of Large Language Models.
 * Second notebook, performed the full fine tuning, PEFT (Parameter Efficient Fine Tuning) is perfomed using LoRA (Low Rank Adaption) method. PEFT provides the finetuning with less computational resources as compared to original LLM, and gives cost benefit.
